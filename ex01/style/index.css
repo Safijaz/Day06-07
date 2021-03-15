@@ -1,0 +1,23 @@
+h2{
+    color: red;
+    text-align: center
+    
+}
+
+h4{
+   color: lightblue;
+}
+.maincontainer{
+   padding-left:20%;
+   padding-right:20%;
+   border:1px;
+}
+.card{
+   width:33%;
+   float: left;
+
+}
+
+
+  
+ 
